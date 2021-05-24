@@ -9,7 +9,9 @@ Front-End em ReactJS, criado no intuito de simular um site institucional de uma 
 # Stack
 
 -   ReactJS
+-   Typescript
 -   Styled-Components
+-   Saas-Less
 -   \* [check package.json](/package.json)
 
 ## More info
