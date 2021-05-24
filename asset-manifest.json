@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/resposive-institucional/static/css/main.28381866.chunk.css",
-    "main.js": "/resposive-institucional/static/js/main.a074d38b.chunk.js",
-    "main.js.map": "/resposive-institucional/static/js/main.a074d38b.chunk.js.map",
-    "runtime-main.js": "/resposive-institucional/static/js/runtime-main.cc16cb04.js",
-    "runtime-main.js.map": "/resposive-institucional/static/js/runtime-main.cc16cb04.js.map",
-    "static/js/2.5296fa89.chunk.js": "/resposive-institucional/static/js/2.5296fa89.chunk.js",
-    "static/js/2.5296fa89.chunk.js.map": "/resposive-institucional/static/js/2.5296fa89.chunk.js.map",
-    "static/js/3.3ac13172.chunk.js": "/resposive-institucional/static/js/3.3ac13172.chunk.js",
-    "static/js/3.3ac13172.chunk.js.map": "/resposive-institucional/static/js/3.3ac13172.chunk.js.map",
-    "index.html": "/resposive-institucional/index.html",
-    "static/css/main.28381866.chunk.css.map": "/resposive-institucional/static/css/main.28381866.chunk.css.map",
-    "static/js/2.5296fa89.chunk.js.LICENSE.txt": "/resposive-institucional/static/js/2.5296fa89.chunk.js.LICENSE.txt",
-    "static/media/icon-close.c39ccb73.svg": "/resposive-institucional/static/media/icon-close.c39ccb73.svg"
+    "main.css": "/site-institucional/static/css/main.28381866.chunk.css",
+    "main.js": "/site-institucional/static/js/main.a074d38b.chunk.js",
+    "main.js.map": "/site-institucional/static/js/main.a074d38b.chunk.js.map",
+    "runtime-main.js": "/site-institucional/static/js/runtime-main.6148b471.js",
+    "runtime-main.js.map": "/site-institucional/static/js/runtime-main.6148b471.js.map",
+    "static/js/2.b555415f.chunk.js": "/site-institucional/static/js/2.b555415f.chunk.js",
+    "static/js/2.b555415f.chunk.js.map": "/site-institucional/static/js/2.b555415f.chunk.js.map",
+    "static/js/3.3ac13172.chunk.js": "/site-institucional/static/js/3.3ac13172.chunk.js",
+    "static/js/3.3ac13172.chunk.js.map": "/site-institucional/static/js/3.3ac13172.chunk.js.map",
+    "index.html": "/site-institucional/index.html",
+    "static/css/main.28381866.chunk.css.map": "/site-institucional/static/css/main.28381866.chunk.css.map",
+    "static/js/2.b555415f.chunk.js.LICENSE.txt": "/site-institucional/static/js/2.b555415f.chunk.js.LICENSE.txt",
+    "static/media/icon-close.c39ccb73.svg": "/site-institucional/static/media/icon-close.c39ccb73.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc16cb04.js",
-    "static/js/2.5296fa89.chunk.js",
+    "static/js/runtime-main.6148b471.js",
+    "static/js/2.b555415f.chunk.js",
     "static/css/main.28381866.chunk.css",
     "static/js/main.a074d38b.chunk.js"
   ]
