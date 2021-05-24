@@ -1,0 +1,10 @@
+export { default as DesktopImage } from "./desktop.png";
+export { default as TabletImage } from "./tablet.png";
+export { default as MobileImage } from "./mobile.png";
+export { default as LogoRaia } from "./drogaraia.png";
+export { default as LogoFarmasil } from "./farmasil.png";
+export { default as LogoDrogasil } from "./drogasil.png";
+export { default as Logo4Bio } from "./4bio.png";
+export { default as LogoRDSmall } from "./rd-small.png";
+export { default as LogoRD } from "./rd.png";
+export { default as LogoUniver } from "./univers.png";
